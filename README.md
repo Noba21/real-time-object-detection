@@ -21,7 +21,7 @@ The application captures frames from a webcam, processes them with an object det
 ### **1
  Clone the Repository**  
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone[ https://github.com/your-username/your-repository.git](https://github.com/Noba21/real-time-object-detection.git)
 cd your-repository
 ```
 
@@ -32,7 +32,7 @@ Make sure you have Python installed (recommended: Python 3.8+). Then, install th
 pip install flask opencv-python torch torchvision
 ```
 ### **3 Download yolo**  
-download the yolov3 "weight and cfig" file from the internt
+download the yolov3 "weight and cfg" file from the internt
 
 ### **4 Run the Application**  
 ```bash
