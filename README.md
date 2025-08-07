@@ -75,13 +75,11 @@ http://127.0.0.1:5000/
 ✅ Add **recording functionality**  
 ✅ Deploy on a cloud server  
 
----
 
-## 📝 **License**  
-This project is **open-source** under the MIT License. Feel free to modify and use it!  
 
 ---
 
 💡 **Made with ❤️ using Flask, OpenCV, and YOLOv3!**  
 
 ---
+
